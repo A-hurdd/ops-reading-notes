@@ -62,4 +62,5 @@ Okay, in binary, the smallest unit of data is called a bit or a binary bit. And 
 * Power Interface
 
 
-![alt text](motherboard.jpg)
+![Reference]()![motherboard](https://github.com/A-hurdd/ops-reading-notes/assets/154618317/d3f272d0-b69e-47e9-ac54-c345169c3e53)
+
