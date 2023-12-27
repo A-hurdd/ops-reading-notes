@@ -46,3 +46,5 @@ This constant thing of input process output input process output. The computer d
 
 ### Binary and Data
 > Binary is a base 2 system ones and zeroes.
+This means that we can calculate numbers based on ones and zeroes. Now this breaks down into something called bits and bites.
+Okay, in binary, the smallest unit of data is called a bit or a binary bit. And it represents 2 states. This is that 0 or the one that I was talking about. This is the smallest piece of data
