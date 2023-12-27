@@ -1,3 +1,3 @@
 # Overall Lecture Notes
 
-> Computer is nothing more than a machine that takes in information and follows it to a T
+> Computer is Nothing More Than a Machine That Takes in Information and Follows it to a T
