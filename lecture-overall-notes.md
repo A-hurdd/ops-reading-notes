@@ -51,3 +51,15 @@ This constant thing of input process output input process output. The computer d
 
 This means that we can calculate numbers based on ones and zeroes. Now this breaks down into something called bits and bites.
 Okay, in binary, the smallest unit of data is called a bit or a binary bit. And it represents 2 states. This is that 0 or the one that I was talking about. This is the smallest piece of data
+
+> We take something and we turn a bit into a bite. Now, a bite is just 8 bits of memory.
+
+### Inside A Computer
+
+* Motherboard
+* CPU - Brains of Computer, where the processing happens and calculations.
+* RAM - PCI/PCIe, Graphics card, external perphiel slots.
+* Power Interface
+
+
+![alt text](motherboard.jpg)
