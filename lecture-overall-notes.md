@@ -40,8 +40,10 @@ This constant thing of input process output input process output. The computer d
 
 ### Circut Boards and Logic
 > They are the essential components that manipulate electricity to transmit signals within the computer system. They are the building blocks of the computer.
+
    The Circuts change their value based on the input they recieve, allowing for dynamic processing of electrical signals.
    Logic Gates, integrated within circuts, perform bitwise calculations and logical operations to process and manipulate data.
+
 > It all boils down to the simple numbers of 1 and 0. which basically menas on and off. if a computer sees a 1 it means electricity is applied and the other for 0 means electricity is off.
 
 ### Binary and Data
