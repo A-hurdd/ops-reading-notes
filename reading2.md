@@ -28,3 +28,4 @@ My anwser: I would explain in simple terms, relate the componants to how im lear
 
 ## Things I Want to Know More About
 
+Why onboard wifi/bluetooth in most cases costs significantlly more than motherboards without
