@@ -2,7 +2,7 @@
 
 When having problems with the pc beepcodes matter. listen to them and document.
 
-###Why start up sequence?
+### Why start up sequence?
 
 - Trouble shooting a computer that is not correctly booting
 - Repairing a corrupt master boot record (MBR)
@@ -62,3 +62,16 @@ Usuallylasts a few years, how to know if its going bad ? you boot up your comput
 
 Todays lab we will be taking the battery out and resetting the CMOS. Unplug the computer and take the battery out and hit the power button and then leave the computer powered down for 5 minutes.
 Then we put the battery back and plug it back in and turn it back on. FOLLOW LAB INSTRUCTIONS.
+
+### Why Configure BIOS ?
+> Why do we want to change BIOS?
+
+- Update firmware
+- Change boot order
+- Enable/disable a motherboard feature
+- Adjust a power, CPU, or RAM configuration setting
+- Clear CMOS
+
+  Also in todays lab we are going into BIOS and enabling the USB mode and set it as a priority so that we can load from a USB drive and will be able to load umbutu.
+  Enabling virtualization so that we can run Linux. We will also be changing the boot order.  
+  
