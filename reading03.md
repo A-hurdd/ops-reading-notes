@@ -1,4 +1,4 @@
-### How this topic relates: We are going to loading into the BIOS of our lab computers and messing around there!It's also helpful to understand whts the ****IOS is and how the background of the computer runs.
+### How this topic relates: We are going to loading into the BIOS of our lab computers and messing around there!It's also helpful to understand whats the BIOS is and how the background of the computer runs.
 
 What is the BIOS?
 Use analogies from your previous background to explain what happens during the booting process?
