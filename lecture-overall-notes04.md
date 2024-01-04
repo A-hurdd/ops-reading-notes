@@ -1,4 +1,4 @@
-### Reading Notes 04
+# Reading Notes 04
 ---
 ## Operating systems
 
@@ -18,12 +18,25 @@ Memory Management.
 Device management.
 Acess control/protection.
 
-# Types of OS
+### Types of OS
 Mobile device OS
 Workstation OS
 Server OS
 Embedded OS
 Firmware
 Hypervisor (Type1)
+
+### OS marketshare of 2020
+Windows had 77.02 % of the market
+
+OS X had 18.42 % of the market
+
+Unknown had 1.81 % of the market
+
+Linux had 1.68 % of the market
+
+Chrome OS had 1.07 % of the market
+
+FreeBSD had 0 % of the market
 
 
