@@ -1,3 +1,5 @@
+# Reading 03
+
 ### How this topic relates: We are going to loading into the BIOS of our lab computers and messing around there!It's also helpful to understand whats the BIOS is and how the background of the computer runs.
 
 What is the BIOS?
