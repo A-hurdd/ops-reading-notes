@@ -39,4 +39,10 @@ Chrome OS had 1.07 % of the market
 
 FreeBSD had 0 % of the market
 
-
+As of 2023
+ Windows only holds 68.44 %
+ OS X holds 20.14 %
+ Unknown holds 4.48 %
+ Chrome OS holds 3.91 %
+ Linux holds 3.01 % 
+ FreeBSD holds 0.01 %
