@@ -118,6 +118,11 @@ Star Topology- Nodes are connectedto a central device, such as a switch or a hub
 
 Ring Topology- Nodes are connected into a closed loop, where data flows in one direction around the ring.
 
+## The Lab Plan
+Lab kit PC will run Ubuntu Linux Desktop
+
+Acess from personal computer using microsoft remote desktop protocol (RDP) over port 3389
+Also secure Shell over port 22.
 Mesh Topology- Nodes are connected to multiple other nodes, creating a redundant and highly interconnected network.
 
 Hybrid Topology- Networks can combine multiple topologies to meet specific requirements.
