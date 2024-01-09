@@ -61,4 +61,34 @@ A reserved IP adress is achieved by associating an IP adress to a MAC adress on 
 > Acknowledgement
 > Lease
 
+All that DHCP does is assign and reassign IP adresses to devices. So that it can be found on your private network.
 
+### Network Ports
+Network ports are like numbered doorways into a computer system.
+> Every data packet must designate a source and destination port
+> Open Ports permit traffic
+> Closed ports blocks traffic
+
+Port numbers range from 0 to 65535.
+> Well known ports (0-1023) are assigned and controlled but can be registered to prevent duplication.
+> Dynamic/private ports (1024-65535) are not assigned,controlled, or registered.
+
+SSH- port 22
+RDP- port 3389
+HTTP- port 80
+HTTPS- port 43
+
+### SSH 
+Secure Shell (SSH) is a modern standard for remoter terminal acess. It is a text only GUI.
+SSH can use password authentication to establish a terminal-only connection to a computer running the SSH service.
+As stated above SSH uses port 22.
+<amy applications such as WinSCP and VSCode can "piggyback" SSH by using it as a background means of transferring data.
+
+### RDP
+> Microsoft Remote Desktop Protocol (RDP) is built into microsoft windows.
+
+Uses TCP prt 3389.
+Not known for greatest security, but within a LAN like our home it's fine.
+Can be used by macOS id installed seperately.
+XRDP is a software installed to Ubuntu Linux Desktop to act as a RDP server.
+Allows windows/macOS clients to connect via RDP.
