@@ -1,4 +1,4 @@
-# Reading Notes 07
+# Lecture Notes 7
 
 ## Network Connectivity
 ### Agenda
