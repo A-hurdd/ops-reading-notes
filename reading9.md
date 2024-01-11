@@ -1,6 +1,7 @@
 # Readings: Command Line Interface
 
 ## How This Topic Relates to Class!! 
+The command line interface is somethig that we are going to come across mostlikely daily. within IT and other services its helpful to know these things and hoow to navigate and understand the background.
 ---
 
 What is the Command Prompt?
@@ -41,5 +42,13 @@ dir : Lists files and their paths
 
 help : Lists commands 
 
-shutdown : Shuts dow-....
+shutdown : Shuts dow-.... :robot:
 
+### What is Windows Power Shell?
+Answer: It's a command line based Shell that executes commands
+
+### What is Windows Terminal?
+Answer : Terminal is a more user friendly command line GUI where you can communicate within the commands as where shell can execute and run them.
+
+## Things i want to know more about?
+N/A The lecture today was nice and the article was helpful!
