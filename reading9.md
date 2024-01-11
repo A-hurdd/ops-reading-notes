@@ -14,13 +14,16 @@ What is Windows Terminal?
 
 ### What is the Command Prompt?
 Answer: "Command Prompt is a command line interpreter application available in most Windows operating systems. It's used to execute entered commands."  The command prompt allows you to interact with the computer by typing specific commands.
+https://www.lifewire.com/command-prompt-2625840
 
 ### How do I access the Command Prompt?
 Answer:  "The "normal" method is via the Command Prompt shortcut located in the Start menu or on the Apps screen", "another way to access Command Prompt is via the cmd Run command. You can also open cmd.exe from its original location:", "through the Power User Menu."
 Thats what it listed for windows but it can vary from the OS you are running! 
+https://www.lifewire.com/command-prompt-2625840
 
 ### What are some of the most commonly used commands?
 Answer: "more commonly used Command Prompt commands that are utilized in a variety of circumstances: , chkdsk, copy , ftp, del, format, ping, attrib, net, dir, help, and shutdown."
+https://www.lifewire.com/command-prompt-2625840
 
 chkdsk : Check Disk 
 
